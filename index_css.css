@@ -1,0 +1,10 @@
+body{
+	background-color: #f5f9ff;
+	font-famaly: "Helvetica" "sans-serif";
+}
+h1{
+	text-align: center;
+}
+#i_me{
+	box-shadow: 7px 7px 10px rgba(0,0,0,0.5);
+}
